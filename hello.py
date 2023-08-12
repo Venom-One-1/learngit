@@ -8,5 +8,6 @@ commet
 # canton
 # version: 1.1
 # in python
+# used to print hello
 
 print('hello!')
