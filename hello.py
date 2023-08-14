@@ -10,4 +10,4 @@ commet
 # in python
 # used to print hello
 
-print('hello!')
+print('Hello, world!')
